@@ -33,7 +33,7 @@ The problems are defined in `proj1.tex` which is to be compiled using a LaTeX co
 
 Feedback from the previous set of students who attempted this assignment is summarized in the accompanying file, `feedback.md`. 
 
-The project was attempted in teams of 4 and was released when some topics had not yet been done. Taking the feedback into account, the recitations have covered WebGL extensively, and have provided a demo of the project. All the topics have been completely covered before the release of the project.
+The project was attempted in teams of 4 and was released when some topics had not yet been covered. Taking the feedback into account, we have done more WebGL assignments beforehand, and the recitations have covered WebGL extensively and provided a demo of the project. All the topics have been completely covered before the release of the project.
 
 # Submission
 
